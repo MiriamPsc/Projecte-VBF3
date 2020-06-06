@@ -1,7 +1,27 @@
 ﻿Public Class CANCONS
     Dim Archivo As String
     Dim Carpeta As String
-
+    Private Sub CANCONS_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        Dim TL(9) As ToolTip
+        TL(0) = New ToolTip
+        TL(0).SetToolTip(Me.Label1, "CANCIONES")
+        TL(1) = New ToolTip
+        TL(1).SetToolTip(Me.btnVolver2, "VOLVER")
+        TL(2) = New ToolTip
+        TL(2).SetToolTip(Button2, "STOP")
+        TL(3) = New ToolTip
+        TL(3).SetToolTip(Me.GroupBox1, "ESCRIBIR")
+        TL(4) = New ToolTip
+        TL(4).SetToolTip(Me.GroupBox2, "CABRONA DE MI")
+        TL(5) = New ToolTip
+        TL(5).SetToolTip(GroupBox3, "QUIERO VERTE")
+        TL(3) = New ToolTip
+        TL(3).SetToolTip(Me.Button1, "PLAY")
+        TL(4) = New ToolTip
+        TL(4).SetToolTip(Me.Button4, "PLAY")
+        TL(5) = New ToolTip
+        TL(5).SetToolTip(Button6, "PLAY")
+    End Sub
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         My.Computer.Audio.Play("C:\Users\miria\Downloads\alfred-garcia-canta-et-vull-veure.wav", AudioPlayMode.Background)
         Carpeta = ("C:\Users\miria\Desktop\EtVullVeure.txt")
@@ -46,4 +66,7 @@
         Form1.Show()
         Hide()
     End Sub
+
+
+
 End Class

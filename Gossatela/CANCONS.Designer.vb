@@ -44,7 +44,7 @@ Partial Class CANCONS
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Itty Bitty Notebook", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.ForeColor = System.Drawing.Color.Red
-        Me.Label1.Location = New System.Drawing.Point(522, 9)
+        Me.Label1.Location = New System.Drawing.Point(570, 9)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(126, 39)
         Me.Label1.TabIndex = 49
@@ -77,20 +77,20 @@ Partial Class CANCONS
         Me.Button6.Font = New System.Drawing.Font("Itty Bitty Notebook", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button6.Location = New System.Drawing.Point(6, 31)
         Me.Button6.Name = "Button6"
-        Me.Button6.Size = New System.Drawing.Size(58, 39)
+        Me.Button6.Size = New System.Drawing.Size(71, 39)
         Me.Button6.TabIndex = 32
-        Me.Button6.Text = "PLAY"
+        Me.Button6.Text = "TOCAR"
         Me.Button6.UseVisualStyleBackColor = False
         '
         'Button2
         '
         Me.Button2.BackColor = System.Drawing.Color.Gold
         Me.Button2.Font = New System.Drawing.Font("Itty Bitty Notebook", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button2.Location = New System.Drawing.Point(997, 5)
+        Me.Button2.Location = New System.Drawing.Point(1158, 5)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(64, 39)
+        Me.Button2.Size = New System.Drawing.Size(90, 39)
         Me.Button2.TabIndex = 46
-        Me.Button2.Text = "STOP"
+        Me.Button2.Text = "ATUREU"
         Me.Button2.UseVisualStyleBackColor = False
         '
         'GroupBox1
@@ -120,9 +120,9 @@ Partial Class CANCONS
         Me.Button4.Font = New System.Drawing.Font("Itty Bitty Notebook", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button4.Location = New System.Drawing.Point(6, 31)
         Me.Button4.Name = "Button4"
-        Me.Button4.Size = New System.Drawing.Size(58, 39)
+        Me.Button4.Size = New System.Drawing.Size(71, 39)
         Me.Button4.TabIndex = 32
-        Me.Button4.Text = "PLAY"
+        Me.Button4.Text = "TOCAR"
         Me.Button4.UseVisualStyleBackColor = False
         '
         'btnVolver2
@@ -163,9 +163,9 @@ Partial Class CANCONS
         Me.Button1.Font = New System.Drawing.Font("Itty Bitty Notebook", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Button1.Location = New System.Drawing.Point(6, 31)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(58, 39)
+        Me.Button1.Size = New System.Drawing.Size(71, 39)
         Me.Button1.TabIndex = 32
-        Me.Button1.Text = "PLAY"
+        Me.Button1.Text = "TOCAR"
         Me.Button1.UseVisualStyleBackColor = False
         '
         'CANCONS
