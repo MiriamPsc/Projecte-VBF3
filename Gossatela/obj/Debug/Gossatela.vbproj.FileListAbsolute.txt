@@ -1,0 +1,16 @@
+C:\Users\miria\source\repos\Gossatela\Gossatela\bin\Debug\Gossatela.exe.config
+C:\Users\miria\source\repos\Gossatela\Gossatela\bin\Debug\Gossatela.exe
+C:\Users\miria\source\repos\Gossatela\Gossatela\bin\Debug\Gossatela.pdb
+C:\Users\miria\source\repos\Gossatela\Gossatela\bin\Debug\Gossatela.xml
+C:\Users\miria\source\repos\Gossatela\Gossatela\obj\Debug\Gossatela.vbprojAssemblyReference.cache
+C:\Users\miria\source\repos\Gossatela\Gossatela\obj\Debug\Gossatela.CANCONS.resources
+C:\Users\miria\source\repos\Gossatela\Gossatela\obj\Debug\Gossatela.Form1.resources
+C:\Users\miria\source\repos\Gossatela\Gossatela\obj\Debug\Gossatela.Resources.resources
+C:\Users\miria\source\repos\Gossatela\Gossatela\obj\Debug\Gossatela.Nivell_2.resources
+C:\Users\miria\source\repos\Gossatela\Gossatela\obj\Debug\Gossatela.Nivell1.resources
+C:\Users\miria\source\repos\Gossatela\Gossatela\obj\Debug\Gossatela.OtroTraductor.resources
+C:\Users\miria\source\repos\Gossatela\Gossatela\obj\Debug\Gossatela.vbproj.GenerateResource.cache
+C:\Users\miria\source\repos\Gossatela\Gossatela\obj\Debug\Gossatela.vbproj.CoreCompileInputs.cache
+C:\Users\miria\source\repos\Gossatela\Gossatela\obj\Debug\Gossatela.exe
+C:\Users\miria\source\repos\Gossatela\Gossatela\obj\Debug\Gossatela.xml
+C:\Users\miria\source\repos\Gossatela\Gossatela\obj\Debug\Gossatela.pdb
