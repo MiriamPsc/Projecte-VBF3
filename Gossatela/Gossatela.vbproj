@@ -95,13 +95,44 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Nivell 2.Designer.vb">
+      <DependentUpon>Nivell 2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nivell 2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nivell1.Designer.vb">
+      <DependentUpon>Nivell1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Nivell1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtroTraductor.Designer.vb">
+      <DependentUpon>OtroTraductor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OtroTraductor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salir.vb" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivell 2.resx">
+      <DependentUpon>Nivell 2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nivell1.resx">
+      <DependentUpon>Nivell1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtroTraductor.resx">
+      <DependentUpon>OtroTraductor.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
