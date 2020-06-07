@@ -1,6 +1,7 @@
 ﻿Public Class CANCONS
     Dim Archivo As String
     Dim Carpeta As String
+    Dim B As New Limpiando()
     Private Sub CANCONS_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Dim TL(9) As ToolTip
         TL(0) = New ToolTip
@@ -51,9 +52,9 @@
         Button4.BackColor = Color.Gold
         Button6.BackColor = Color.Gold
 
-        RichTextBox1.Text = ("")
-        RichTextBox2.Text = ("")
-        RichTextBox3.Text = ("")
+        RichTextBox1.Text = (B.Limpiar())
+        RichTextBox2.Text = (B.Limpiar())
+        RichTextBox3.Text = (B.Limpiar())
 
     End Sub
 

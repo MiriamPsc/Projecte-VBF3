@@ -28,11 +28,6 @@
     End Sub
 
     Private Sub tb2_KeyPress(sender As Object, e As KeyPressEventArgs) Handles tb6.KeyPress,
-                                                                                    tb5.KeyPress,
-                                                                                    tb4.KeyPress,
-                                                                                    tb3.KeyPress,
-                                                                                    tb2.KeyPress,
-                                                                                    tb1.KeyPress
         If Not Char.IsNumber(e.KeyChar) AndAlso Not Char.IsControl(e.KeyChar) Then
             e.Handled = True
         End If
